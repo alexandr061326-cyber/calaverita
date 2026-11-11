@@ -1,0 +1,13 @@
+body{
+    background-color: purple;
+    text-align: center;
+}
+
+h1{
+    color: orange;
+}
+
+img{
+    width: 250px;
+    border-radius:15px
+}
